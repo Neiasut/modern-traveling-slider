@@ -1,0 +1,10 @@
+.ModernTravelingSlider{
+  &-StorageSlides{
+    display: none;
+  }
+  &-Windows{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+}
