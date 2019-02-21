@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Slider",
   "main": "src/ModernTravelingSlider.ts",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Neiasut/modern-traveling-slider"
+  },
   "author": "neiasut<kerlaeeda@gmail.com>",
   "license": "MIT",
   "devDependencies": {
